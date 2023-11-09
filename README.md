@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm iliya crypto</h1>
-<h3 align="center">I do content on app development, blockchain technology,smart contracts smart contract, and some other - related topics. I really enjoy learning languages and frameworks like to react, python, javascript, solidity as well as working in web3 applications. I like UI UX design, 3D design, and Figma in general. I am also enthusiastic about deeply exploring in cryptography's fundamentals</h3>
+<h3 align="center">I do content on app development, blockchain technology,smart contracts , and some other - related topics. I really enjoy learning languages and frameworks like to react, python, javascript, solidity as well as working in web3 applications. I like UI UX design, 3D design, and Figma in general. I am also enthusiastic about deeply exploring in cryptography's fundamentals</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=iliyacrypto&label=Profile%20views&color=0e75b6&style=flat" alt="iliyacrypto" /> </p>
 
